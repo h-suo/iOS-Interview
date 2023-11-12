@@ -7,3 +7,4 @@ iOS 면접 질문 정리
 - [struct와 class와 enum의 차이를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.06.md)
 - [SafeArea에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.07.md)
 - [View 객체에 대해 설명하시오. 그리고 UI 작업을 Main Thread에서만 해야 하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.08.md)
+- [prepareForReuse에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.12.md)
