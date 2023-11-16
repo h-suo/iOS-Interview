@@ -11,3 +11,4 @@ iOS 면접 질문 정리
 - [Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오. 그리고 Hash 값이란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.13.md)
 - [NSOperationQueue와 GCD Queue의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.14.md)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.15.md)
+- [instance 메서드와 class 메서드의 차이점을 설명하시오. 그리고 class 메서드와 static 메서드의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.16.md)
