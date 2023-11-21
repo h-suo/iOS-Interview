@@ -13,3 +13,5 @@ iOS 면접 질문 정리
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.15.md)
 - [instance 메서드와 class 메서드의 차이점을 설명하시오. 그리고 class 메서드와 static 메서드의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.16.md)
 - [defer란 무엇인지 설명하시오. 그리고 defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.17.md)
+- [Optional 이란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.20.md)
+- [순수함수란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.21.md)
