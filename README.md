@@ -15,3 +15,4 @@ iOS 면접 질문 정리
 - [defer란 무엇인지 설명하시오. 그리고 defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.17.md)
 - [Optional 이란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.20.md)
 - [순수함수란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.21.md)
+- [Copy On Write는 어떤 방식으로 동작하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.22.md)
