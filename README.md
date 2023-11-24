@@ -16,3 +16,5 @@ iOS 면접 질문 정리
 - [Optional 이란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.20.md)
 - [순수함수란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.21.md)
 - [Copy On Write는 어떤 방식으로 동작하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.22.md)
+- [다크모드를 지원하는 방법에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.23.md)
+- [Convenience init에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.24.md)
