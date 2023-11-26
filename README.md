@@ -18,3 +18,4 @@ iOS 면접 질문 정리
 - [Copy On Write는 어떤 방식으로 동작하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.22.md)
 - [다크모드를 지원하는 방법에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.23.md)
 - [Convenience init에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.24.md)
+- [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.26.md)
