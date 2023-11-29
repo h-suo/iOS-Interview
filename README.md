@@ -21,3 +21,4 @@ iOS 면접 질문 정리
 - [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.26.md)
 - [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.27.md)
 - [Struct 가 무엇이고 어떻게 사용하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.28.md)
+- [ARC란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.29.md)
