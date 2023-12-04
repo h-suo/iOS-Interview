@@ -22,3 +22,5 @@ iOS 면접 질문 정리
 - [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.27.md)
 - [Struct 가 무엇이고 어떻게 사용하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.28.md)
 - [ARC란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.29.md)
+- [Result 타입에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.01.md)
+- [Generic에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.04.md)
