@@ -24,3 +24,6 @@ iOS 면접 질문 정리
 - [ARC란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.29.md)
 - [Result 타입에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.01.md)
 - [Generic에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.04.md)
+- [의존성 주입에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.05.md)
+- [ViewController의 생명주기를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.06.md)
+- [@Main에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.07.md)
