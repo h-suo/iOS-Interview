@@ -27,3 +27,5 @@ iOS 면접 질문 정리
 - [의존성 주입에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.05.md)
 - [ViewController의 생명주기를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.06.md)
 - [@Main에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.07.md)
+- [Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.08.md)
+- [mutating 키워드에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.13.md)
