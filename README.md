@@ -32,3 +32,6 @@ iOS 면접 질문 정리
 - [고차 함수가 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.15.md)
 - [UIWindow 객체의 역할은 무엇인가?](https://github.com/h-suo/Interview/blob/main/content/23.12.16.md)
 - [property wrapper에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.17.md)
+- [some 키워드에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.19.md)
+- [Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요?](https://github.com/h-suo/Interview/blob/main/content/23.12.20.md)
+- [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.21.md)
