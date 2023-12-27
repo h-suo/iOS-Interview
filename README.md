@@ -35,3 +35,5 @@ iOS 면접 질문 정리
 - [some 키워드에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.19.md)
 - [Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요?](https://github.com/h-suo/Interview/blob/main/content/23.12.20.md)
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.21.md)
+- [함수형 프로그래밍이 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.23.md)
+- [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.24.md)
