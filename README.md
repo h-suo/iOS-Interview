@@ -41,3 +41,6 @@ iOS 면접 질문 정리
 - [App Bundle의 구조와 역할에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.28.md)
 - [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://github.com/h-suo/Interview/blob/main/content/23.12.29.md)
 - [멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.01.md)
+- [Subscripts에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.02.md)
+- [Strong 과 Weak 참조 방식에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.03.md)
+- [@State가 어떻게 동작하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.05.md)
