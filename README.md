@@ -1,6 +1,6 @@
 # Interview
 
-iOS 면접 질문 정리
+### iOS 면접 질문 정리
 
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.03.md)
 - [순환 참조에 대하여 설명하시오. 그리고 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.05.md)
@@ -44,3 +44,6 @@ iOS 면접 질문 정리
 - [Subscripts에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.02.md)
 - [Strong 과 Weak 참조 방식에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.03.md)
 - [@State가 어떻게 동작하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.05.md)
+- [Extension에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.06.md)
+- [SceneDelegate에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.07.md)
+- [StackView의 장점과 단점에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.08.md)
