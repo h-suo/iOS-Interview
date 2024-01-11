@@ -47,3 +47,6 @@
 - [Extension에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.06.md)
 - [SceneDelegate에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.07.md)
 - [StackView의 장점과 단점에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.08.md)
+- [Closure에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.09.md)
+- [class의 성능을 향상시킬 수 있는 방법들을 나열해 보시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.09.md)
+- [AnyObject에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.09.md)
