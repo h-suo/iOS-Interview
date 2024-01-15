@@ -50,6 +50,6 @@
 - [Closure에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.09.md)
 - [class의 성능을 향상시킬 수 있는 방법들을 나열해 보시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.10.md)
 - [AnyObject에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.11.md)
-- [class의 성능을 향상시킬 수 있는 방법들을 나열해 보시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.12.md)
+- [hugging, resistance에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.12.md)
 - [@Published에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.13.md)
 - [실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.14.md)
