@@ -53,3 +53,6 @@
 - [hugging, resistance에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.12.md)
 - [@Published에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.13.md)
 - [실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.14.md)
+- [프로토콜이란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.16.md)
+- [탈출 클로저에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.17.md)
+- [접근 제어자의 종류엔 어떤게 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.18.md)
