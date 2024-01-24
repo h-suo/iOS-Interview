@@ -56,3 +56,6 @@
 - [프로토콜이란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.16.md)
 - [탈출 클로저에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.17.md)
 - [접근 제어자의 종류엔 어떤게 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.18.md)
+- [Swift의 프로토콜 지향 프로그래밍(Protocol-Oriented Programming)의 장점은 무엇이며, 이를 클래스 기반 프로그래밍과 비교했을 때 어떤 차이점이 있나요?](https://github.com/h-suo/Interview/blob/main/content/24.01.19.md)
+- [UINavigationController 의 역할이 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.20.md)
+- [Run Loops에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.21.md)
