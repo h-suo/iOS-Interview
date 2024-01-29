@@ -59,3 +59,8 @@
 - [Swift의 프로토콜 지향 프로그래밍(Protocol-Oriented Programming)의 장점은 무엇이며, 이를 클래스 기반 프로그래밍과 비교했을 때 어떤 차이점이 있나요?](https://github.com/h-suo/Interview/blob/main/content/24.01.19.md)
 - [UINavigationController 의 역할이 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.20.md)
 - [Run Loops에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.21.md)
+- [Swift에서의 비동기 이미지 로딩과 캐싱을 위한 전략은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.23.md)
+- [Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.24.md)
+- [Delegate와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.25.md)
+- [Optional Chaining과 nil-coalescing operator(??)의 차이점과 사용 시 주의사항은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.27.md)
+- [Swift의 옵셔널 체이닝(Optional Chaining)은 어떤 상황에서 사용하는 것이 가장 효과적인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.28.md)
