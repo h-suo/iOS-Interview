@@ -64,3 +64,6 @@
 - [Delegate와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.25.md)
 - [Optional Chaining과 nil-coalescing operator(??)의 차이점과 사용 시 주의사항은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.27.md)
 - [Swift의 옵셔널 체이닝(Optional Chaining)은 어떤 상황에서 사용하는 것이 가장 효과적인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.28.md)
+- [Extension 내부에서 함수를 override할 수 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.30.md)
+- [Codable에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.31.md)
+- [타입 변환(Type Casting)과 다형성(Polymorphism)에 대해 설명해보세요.](https://github.com/h-suo/Interview/blob/main/content/24.02.01.md)
