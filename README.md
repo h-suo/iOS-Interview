@@ -67,3 +67,5 @@
 - [Extension 내부에서 함수를 override할 수 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.30.md)
 - [Codable에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.31.md)
 - [타입 변환(Type Casting)과 다형성(Polymorphism)에 대해 설명해보세요.](https://github.com/h-suo/Interview/blob/main/content/24.02.01.md)
+- [MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.02.md)
+- [Swift에서 Async/Await 기능이 도입되기 전에, 비동기(Asynchronous) 작업을 처리하는 방법에는 어떤 것들이 있나요?](https://github.com/h-suo/Interview/blob/main/content/24.02.05.md)
