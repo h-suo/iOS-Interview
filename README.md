@@ -69,3 +69,7 @@
 - [타입 변환(Type Casting)과 다형성(Polymorphism)에 대해 설명해보세요.](https://github.com/h-suo/Interview/blob/main/content/24.02.01.md)
 - [MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.02.md)
 - [Swift에서 Async/Await 기능이 도입되기 전에, 비동기(Asynchronous) 작업을 처리하는 방법에는 어떤 것들이 있나요?](https://github.com/h-suo/Interview/blob/main/content/24.02.05.md)
+- [Retain Count 방식에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.06.md)
+- [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.08.md)
+- [Swift에서의 메모리 관리 방법(ARC)에 대해 설명하고, 순환 참조(Circular Reference)를 방지하기 위한 전략은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.02.09.md)
+- [Protocol에서는 왜 var만 되는지 설명하시요.](https://github.com/h-suo/Interview/blob/main/content/24.02.10.md)
