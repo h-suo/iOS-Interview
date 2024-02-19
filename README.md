@@ -73,3 +73,7 @@
 - [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.08.md)
 - [Swift에서의 메모리 관리 방법(ARC)에 대해 설명하고, 순환 참조(Circular Reference)를 방지하기 위한 전략은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.02.09.md)
 - [Protocol에서는 왜 var만 되는지 설명하시요.](https://github.com/h-suo/Interview/blob/main/content/24.02.10.md)
+- [TableView와 CollectionView의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.15.md)
+- [URLSession에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.16.md)
+- [NSCache와 딕셔너리로 캐시를 구성했을 때의 차이를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.17.md)
+- [Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.](https://github.com/h-suo/Interview/blob/main/content/24.02.18.md)
