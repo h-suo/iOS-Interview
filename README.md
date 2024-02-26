@@ -77,3 +77,5 @@
 - [URLSession에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.16.md)
 - [NSCache와 딕셔너리로 캐시를 구성했을 때의 차이를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.17.md)
 - [Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.](https://github.com/h-suo/Interview/blob/main/content/24.02.18.md)
+- [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.20.md)
+- [Swift의 제네릭(Generic)을 사용하는 이점과 구현 시 고려해야 할 사항은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.02.21.md)
