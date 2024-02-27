@@ -1,6 +1,12 @@
 # Interview
 
-### iOS 면접 질문 정리
+## CS Questions List
+
+- [컴퓨터의 구성](https://github.com/h-suo/Interview/blob/main/content/24.02.27.md)
+
+<br>
+
+## iOS Questions List
 
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.03.md)
 - [순환 참조에 대하여 설명하시오. 그리고 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.05.md)
@@ -79,3 +85,4 @@
 - [Dynamic Library와 Static Library의 차이점에 대해 설명해보세요.](https://github.com/h-suo/Interview/blob/main/content/24.02.18.md)
 - [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.20.md)
 - [Swift의 제네릭(Generic)을 사용하는 이점과 구현 시 고려해야 할 사항은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.02.21.md)
+- [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/h-suo/Interview/blob/main/content/24.02.26.md)
