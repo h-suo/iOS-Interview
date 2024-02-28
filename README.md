@@ -80,3 +80,4 @@ iOS 면접 질문 정리
 - [setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.20.md)
 - [Swift의 제네릭(Generic)을 사용하는 이점과 구현 시 고려해야 할 사항은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.02.21.md)
 - [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/h-suo/Interview/blob/main/content/24.02.26.md)
+- [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.02.28.md)
