@@ -84,3 +84,4 @@ iOS 면접 질문 정리
 - [Swift의 함수형 프로그래밍 요소(예: map, filter, reduce)를 사용하는 경우, 어떤 장점이 있으며, 언제 사용하는 것이 적절한가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.02.29.md)
 - [GCD API 동작 방식과 필요성에 대해 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.02.md)
 - [PassthroughSubject에 대해서 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.03.md)
+- [AnyCancellable에 대해서 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.04.md)
