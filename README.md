@@ -85,3 +85,4 @@ iOS 면접 질문 정리
 - [GCD API 동작 방식과 필요성에 대해 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.02.md)
 - [PassthroughSubject에 대해서 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.03.md)
 - [AnyCancellable에 대해서 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.04.md)
+- [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.05.md)
