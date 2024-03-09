@@ -89,3 +89,4 @@ iOS 면접 질문 정리
 - [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.06.md)
 - [Swift에서의 오류 처리(Error Handling) 방법과 모범 사례에 대해 설명해 주세요.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.07.md)
 - [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.08.md)
+- [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.09.md)
