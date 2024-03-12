@@ -91,3 +91,4 @@ iOS 면접 질문 정리
 - [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.08.md)
 - [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.09.md)
 - [Swift의 클로저(Closure) 사용 시 성능적인 측면을 고려해야 하는 경우는 어떤 것들이 있나요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.11.md)
+- [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.12.md)
