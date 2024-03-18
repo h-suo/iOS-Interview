@@ -95,3 +95,4 @@ iOS 면접 질문 정리
 - [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.13.md)
 - [Swift의 패턴 매칭(Pattern Matching) 기능을 효과적으로 사용하는 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.14.md)
 - [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.15.md)
+- [Swift의 효율적인 컬렉션 사용 방법에 대해 설명해 주세요. 배열(Array), 딕셔너리(Dictionary), 세트(Set) 사용 시 성능에 영향을 미치는 요소는 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.18.md)
