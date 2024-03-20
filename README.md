@@ -97,3 +97,4 @@ iOS 면접 질문 정리
 - [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.15.md)
 - [Swift의 효율적인 컬렉션 사용 방법에 대해 설명해 주세요. 배열(Array), 딕셔너리(Dictionary), 세트(Set) 사용 시 성능에 영향을 미치는 요소는 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.18.md)
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.19.md)
+- [Swift의 모듈화 및 패키지 관리를 위한 전략은 무엇이며, 이를 통해 얻을 수 있는 이점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.20.md)
