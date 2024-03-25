@@ -7,6 +7,7 @@
 - [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.05.md)
 - [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.06.md)
 - [@Main에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.07.md)
+- [상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.03.25.md)
 - [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://github.com/h-suo/Interview/blob/main/content/23.12.29.md)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.15.md)
 - [SceneDelegate에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.07.md)
