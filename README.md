@@ -136,3 +136,4 @@
 - [Swift의 모듈화 및 패키지 관리를 위한 전략은 무엇이며, 이를 통해 얻을 수 있는 이점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.20.md)
 - [Swift의 접근 제어(Access Control)를 활용한 안전한 코드 작성 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.22.md)
 - [Swift에서의 비동기 이미지 로딩과 캐싱을 위한 전략은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.23.md)
+- [Swift의 확장(Extension) 사용 시 모범 사례는 무엇이며, 확장을 사용할 때의 주의점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.27.md)
