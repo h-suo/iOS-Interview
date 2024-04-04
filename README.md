@@ -13,6 +13,7 @@
 - [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://github.com/h-suo/Interview/blob/main/content/23.12.29.md)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.15.md)
 - [SceneDelegate에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.07.md)
+- [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.04.md)
 - [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.08.md)
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.21.md)
 - [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.08.md)
