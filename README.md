@@ -15,6 +15,7 @@
 - [SceneDelegate에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.07.md)
 - [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.04.md)
 - [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.02.08.md)
+- [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.05.md)
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.21.md)
 - [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.08.md)
 - [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.24.md)
