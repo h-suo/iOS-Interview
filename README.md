@@ -143,3 +143,4 @@
 - [Swift의 확장(Extension) 사용 시 모범 사례는 무엇이며, 확장을 사용할 때의 주의점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.27.md)
 - [Swift에서의 런타임 최적화 방법은 무엇이며, 성능 분석을 위한 도구 사용 방법은 어떻게 되나요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.03.md)
 - [Swift의 리터럴과 연산자 오버로딩을 통해 얻을 수 있는 이점과 주의사항은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.08.md)
+- [Swift에서의 Type Inference(타입 추론)의 작동 원리와 효율적 사용을 위한 전략은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.10.md)
