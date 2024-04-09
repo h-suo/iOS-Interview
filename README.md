@@ -25,6 +25,7 @@
 - [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.09.md)
 - [View 객체에 대해 설명하시오. 그리고 UI 작업을 Main Thread에서만 해야 하는지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.08.md)
 - [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.13.md)
+- [iOS에서 뷰(View)와 레이어(Layer)의 개념과 차이점에 대해 설명해보세요.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.09.md)
 - [UIWindow 객체의 역할은 무엇인가?](https://github.com/h-suo/Interview/blob/main/content/23.12.16.md)
 - [UINavigationController 의 역할이 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.20.md)
 - [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.12.md)
