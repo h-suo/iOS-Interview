@@ -45,6 +45,7 @@
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.19.md)
 - [hugging, resistance에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.12.md)
 - [Intrinsic Size에 대해서 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.21.md)
+- [스토리보드를 이용했을때의 장단점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.04.15.md)
 - [SafeArea에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.07.md)
 
 ### Swift
