@@ -122,6 +122,7 @@
 
 - [Run Loops에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.01.21.md)
 - [Protocol에서는 왜 var만 되는지 설명하시요.](https://github.com/h-suo/Interview/blob/main/content/24.02.10.md)
+- [Push Notification 방식에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.04.16.md)
 
 <br>
 
