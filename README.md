@@ -146,3 +146,4 @@
 - [Swift에서의 런타임 최적화 방법은 무엇이며, 성능 분석을 위한 도구 사용 방법은 어떻게 되나요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.03.md)
 - [Swift의 리터럴과 연산자 오버로딩을 통해 얻을 수 있는 이점과 주의사항은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.08.md)
 - [Swift에서의 Type Inference(타입 추론)의 작동 원리와 효율적 사용을 위한 전략은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.10.md)
+- [Swift의 Associated Types(연관 타입)에 대해 설명하고, 프로토콜에서 이를 사용하는 방법과 장점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.17.md)
