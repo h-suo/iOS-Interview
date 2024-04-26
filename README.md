@@ -49,6 +49,7 @@
 - [SafeArea에 대해서 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.07.md)
 - [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.04.18.md)
 - [Auto Layout과 Frame-based Layout의 차이점은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.04.22.md)
+- [성능 향상을 위해 어떤 디버깅 도구를 사용할 수 있나요? 각각의 디버깅 도구는 어떤 상황에서 사용하는 것이 좋나요?](https://github.com/h-suo/Interview/blob/main/content/24.04.26.md)
 
 ### Swift
 
