@@ -154,3 +154,4 @@
 - [Swift의 Associated Types(연관 타입)에 대해 설명하고, 프로토콜에서 이를 사용하는 방법과 장점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.17.md)
 - [Swift의 키-값 관찰(Key-Value Observing, KVO)과 프로퍼티 옵저버(Property Observer)의 차이점과 각각의 사용 시나리오는 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.19.md)
 - [Swift의 델리게이트 패턴(Delegate Pattern)을 사용하여 컴포넌트 간 통신을 구현하는 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.24.md)
+- [Swift의 리플렉션(Reflection)과 메타 타입(MetaType)을 사용하는 경우와 주의사항은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.29.md)
