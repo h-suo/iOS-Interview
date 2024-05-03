@@ -125,6 +125,7 @@
 ### Advanced
 
 - [Push Notification 방식에 대해 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.04.16.md)
+- [Foundation과 Core Foundation 프레임워크의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.05.03.md)
 - [Core Data와 Sqlite 같은 데이터베이스의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.04.25.md)
 - [Protocol에서는 왜 var만 되는지 설명하시요.](https://github.com/h-suo/Interview/blob/main/content/24.02.10.md)
 - [DispatchQueue.main.sync를 사용하는 상황을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.04.23.md)
