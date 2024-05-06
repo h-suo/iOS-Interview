@@ -121,6 +121,7 @@
 
 - [NSOperationQueue와 GCD Queue의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.14.md)
 - [GCD API 동작 방식과 필요성에 대해 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.02.md)
+- [Global DispatchQueue의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.06.md)
 
 ### Advanced
 
