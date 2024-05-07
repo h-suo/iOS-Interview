@@ -105,6 +105,7 @@
 
 ### Architecture
 
+- [MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍처를 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.05.07.md)
 - [의존성 주입에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.05.md)
 
 ### Swift UI
