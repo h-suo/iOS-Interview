@@ -160,3 +160,4 @@
 - [Swift의 델리게이트 패턴(Delegate Pattern)을 사용하여 컴포넌트 간 통신을 구현하는 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.24.md)
 - [Swift의 리플렉션(Reflection)과 메타 타입(MetaType)을 사용하는 경우와 주의사항은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.29.md)
 - [Swift의 커스텀 서브스크립트(Custom Subscript) 구현 방법과 사용 시의 이점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.04.md)
+- [Swift의 커스텀 연산자(Custom Operator)를 정의하고 사용하는 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.08.md)
