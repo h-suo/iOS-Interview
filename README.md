@@ -101,6 +101,7 @@
 - [순수함수란 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.21.md)
 - [함수형 프로그래밍이 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.23.md)
 - [고차 함수가 무엇인지 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.12.15.md)
+- [Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/24.05.12.md)
 - [Either type이란?](https://github.com/h-suo/Interview/blob/main/content/24.05.02.md)
 
 ### Architecture
