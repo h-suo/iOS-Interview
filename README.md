@@ -1,5 +1,14 @@
 # iOS Interview
 
+## 레벨별 예상 질문 리스트
+
+### 레벨 0
+
+- 컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.
+  - [캐시 메모리의 개념과 종류, 역할에 대해 설명해주세요.](https://github.com/h-suo/Interview/blob/main/content/24.05.16.md)
+
+<br>
+
 ### iOS
 
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/h-suo/Interview/blob/main/content/23.11.03.md)
@@ -151,7 +160,6 @@
 - [Swift의 효율적인 컬렉션 사용 방법에 대해 설명해 주세요. 배열(Array), 딕셔너리(Dictionary), 세트(Set) 사용 시 성능에 영향을 미치는 요소는 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.18.md)
 - [Swift의 모듈화 및 패키지 관리를 위한 전략은 무엇이며, 이를 통해 얻을 수 있는 이점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.20.md)
 - [Swift의 접근 제어(Access Control)를 활용한 안전한 코드 작성 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.22.md)
-- [Swift에서의 비동기 이미지 로딩과 캐싱을 위한 전략은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.23.md)
 - [Swift의 확장(Extension) 사용 시 모범 사례는 무엇이며, 확장을 사용할 때의 주의점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.03.27.md)
 - [Swift에서의 런타임 최적화 방법은 무엇이며, 성능 분석을 위한 도구 사용 방법은 어떻게 되나요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.03.md)
 - [Swift의 리터럴과 연산자 오버로딩을 통해 얻을 수 있는 이점과 주의사항은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.08.md)
@@ -161,5 +169,9 @@
 - [Swift의 델리게이트 패턴(Delegate Pattern)을 사용하여 컴포넌트 간 통신을 구현하는 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.24.md)
 - [Swift의 리플렉션(Reflection)과 메타 타입(MetaType)을 사용하는 경우와 주의사항은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.04.29.md)
 - [Swift의 커스텀 서브스크립트(Custom Subscript) 구현 방법과 사용 시의 이점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.04.md)
+- [Swift에서의 비동기 이미지 로딩과 캐싱을 위한 전략은 무엇인가요?](https://github.com/h-suo/Interview/blob/main/content/24.01.23.md)
 - [Swift의 커스텀 연산자(Custom Operator)를 정의하고 사용하는 방법은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.08.md)
+
+### Xcode IDE: Interface Builder, debugging, profiling.
+
 - [Xcode의 인터페이스 빌더를 사용할 때의 장점과 단점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.13.md)
