@@ -1,0 +1,5 @@
+# iOS 면접 질문 정리
+
+## Q. Xcode에서 디버깅을 위해 사용할 수 있는 주요 도구와 기능은 무엇인가요?
+
+🗣️ Xcode에서 디버깅을 위해 사용할 수 있는 주요 도구는 LLDB(Low-Level Debugger)로, Breakpoint, Stepping, Expression 등의 기능을 활용하여 개발 중 발생하는 논리적인 오류, 버그 등을 찾아내어 수정할 수 있습니다.
