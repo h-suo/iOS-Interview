@@ -176,3 +176,4 @@
 ### Xcode IDE: Interface Builder, debugging, profiling.
 
 - [Xcode의 인터페이스 빌더를 사용할 때의 장점과 단점은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.13.md)
+- [Xcode에서 디버깅을 위해 사용할 수 있는 주요 도구와 기능은 무엇인가요?](https://github.com/h-suo/iOS-Interview/blob/main/content/24.05.18.md)
