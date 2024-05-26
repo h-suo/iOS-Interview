@@ -4,7 +4,7 @@
 
 ### 레벨 0
 
-- 컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.
+- [컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.](https://github.com/h-suo/Interview/blob/main/content/24.05.26.md)
   - [캐시 메모리의 개념과 종류, 역할에 대해 설명해주세요.](https://github.com/h-suo/Interview/blob/main/content/24.05.16.md)
   - [iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요.](https://github.com/h-suo/Interview/blob/main/content/24.05.17.md)
 
